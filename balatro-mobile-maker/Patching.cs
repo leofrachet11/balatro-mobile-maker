@@ -68,6 +68,7 @@ internal class Patching
         self.F_VIDEO_SETTINGS = false
         self.F_ENGLISH_ONLY = false
         self.F_QUIT_BUTTON = false
+        self.F_MOBILE_UI = true
     end");
         //On-screen keyboard
         ApplyPatch("functions/button_callbacks.lua", "G.CONTROLLER.text_input_hook == e and G.CONTROLLER.HID.controller", "  if G.CONTROLLER.text_input_hook == e and (G.CONTROLLER.HID.controller or G.CONTROLLER.HID.touch) then");

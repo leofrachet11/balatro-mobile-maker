@@ -35,7 +35,7 @@ Please review the **Notes** section before you begin.
  - This script will automatically download [Balatro-APK-Patch](https://github.com/blake502/balatro-mobile-maker/releases/tag/Additional-Tools-1.0)
  - This script can automatically download [Android Developer Bridge](https://developer.android.com/tools/adb) (optional)
  ### For iOS:
- - This script will automatically download [Balatro-IPA-Base](https://github.com/blake502/balatro-mobile-maker/releases/tag/Additional-Tools-1.0)
+ - This script will automatically download [Balatro-IPA-Base](https://raw.githubusercontent.com/leofrachet11/balatro-mobile-maker/main/resources/balatro-base.ipa)
 
  ## Recogition (in no particular order)
  - [Every contributor](https://github.com/blake502/balatro-mobile-maker/graphs/contributors)
